@@ -44,21 +44,6 @@ A Windows system optimisation tool for power users who want full control over th
 
 ---
 
-## GitHub Stats
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=undishonorables&show_icons=true&theme=transparent&hide_border=true&title_color=a855f7&icon_color=6e40c9&text_color=ffffff&ring_color=6e40c9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=undishonorables&show_icons=true&theme=default&hide_border=true&title_color=6e40c9&icon_color=6e40c9&ring_color=6e40c9" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=undishonorables&show_icons=true&theme=transparent&hide_border=true&title_color=a855f7&icon_color=6e40c9&text_color=ffffff&ring_color=6e40c9" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=undishonorables&layout=compact&theme=transparent&hide_border=true&title_color=a855f7&text_color=ffffff" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=undishonorables&layout=compact&theme=default&hide_border=true&title_color=6e40c9" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=undishonorables&layout=compact&theme=transparent&hide_border=true&title_color=a855f7&text_color=ffffff" />
-</picture>
-
----
-
 ## Support
 
 If my work has been useful to you, tips are appreciated.
