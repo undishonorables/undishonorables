@@ -26,8 +26,6 @@
 ![Lua](https://img.shields.io/badge/Lua-0d1117?style=flat&logo=lua&logoColor=2C2D72)
 ![HTML](https://img.shields.io/badge/HTML5-0d1117?style=flat&logo=html5&logoColor=E34F26)
 ![C++](https://img.shields.io/badge/C++-0d1117?style=flat&logo=cplusplus&logoColor=00599C)
-![C#](https://img.shields.io/badge/C%23-0d1117?style=flat&logo=csharp&logoColor=239120)
-![HolyC](https://img.shields.io/badge/HolyC-0d1117?style=flat&logo=templeos&logoColor=a855f7)
 ![Perl](https://img.shields.io/badge/Perl-0d1117?style=flat&logo=perl&logoColor=39457E)
 ![Ruby](https://img.shields.io/badge/Ruby-0d1117?style=flat&logo=ruby&logoColor=CC342D)
 ![ASM](https://img.shields.io/badge/Assembly-0d1117?style=flat&logo=assemblyscript&logoColor=aaaaaa)
