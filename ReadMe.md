@@ -37,8 +37,8 @@
 ## Projects
 
 **[WinOptimiser](https://github.com/undishonorables/winoptimiser)**
-[![Stars](https://img.shields.io/github/stars/undishonorables/winoptimiser?style=flat&logo=github&labelColor=0d1117&color=6e40c9)](https://github.com/undishonorables/winoptimiser)
-[![Last Commit](https://img.shields.io/github/last-commit/undishonorables/winoptimiser?style=flat&logo=github&labelColor=0d1117&color=6e40c9)](https://github.com/undishonorables/winoptimiser)
+[![Stars](https://img.shields.io/github/stars/winoptimiser/winoptimiser?style=flat&logo=github&labelColor=0d1117&color=6e40c9)](https://github.com/winoptimiser/winoptimiser)
+[![Last Commit](https://img.shields.io/github/last-commit/winoptimiser/winoptimiser?style=flat&logo=github&labelColor=0d1117&color=6e40c9)](https://github.com/winoptimiser/winoptimiser)
 
 A Windows system optimisation tool for power users who want full control over their machine. Strips bloat, tunes settings, and reclaims resources.
 
