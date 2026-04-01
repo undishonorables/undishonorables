@@ -1,5 +1,3 @@
-# YOUR_NAME
-
 > Systems programmer with a love for low-level code and making things fast.
 
 [![GitHub followers](https://img.shields.io/github/followers/undishonorables?style=flat&logo=github&labelColor=0d1117&color=6e40c9)](https://github.com/undishonorables)
